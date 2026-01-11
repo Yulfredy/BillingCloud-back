@@ -1,0 +1,1303 @@
+[
+  {
+    "serviceName": "CUSTOMERS2",
+    "distribution": [
+      {
+        "client": "Tuya",
+        "percentage": 15,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "Crystal",
+        "percentage": 12,
+        "applications": []
+      },
+      {
+        "client": "Davivienda",
+        "percentage": 0.8,
+        "applications": []
+      },
+      {
+        "client": "DaviBank",
+        "percentage": 0.4,
+        "applications": []
+      },
+      {
+        "client": "Banco de Bogotá",
+        "percentage": 10.1,
+        "applications": []
+      },
+      {
+        "client": "Banco de Occidente",
+        "percentage": 2.6,
+        "applications": []
+      },
+      {
+        "client": "Banco Av Villas",
+        "percentage": 0.9,
+        "applications": []
+      },
+      {
+        "client": "Banco Popular",
+        "percentage": 2.6,
+        "applications": []
+      },
+      {
+        "client": "Porvenir",
+        "percentage": 2.6,
+        "applications": []
+      },
+      {
+        "client": "Corficolombiana",
+        "percentage": 1.3,
+        "applications": []
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 3.2,
+        "applications": []
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 3.2,
+        "applications": []
+      },
+      {
+        "client": "Fidubogotá",
+        "percentage": 2.6,
+        "applications": []
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 3.2,
+        "applications": []
+      },
+      {
+        "client": "Alpopular",
+        "percentage": 3.2,
+        "applications": []
+      },
+      {
+        "client": "Seguros Alfa",
+        "percentage": 10.1,
+        "applications": []
+      },
+      {
+        "client": "CEET",
+        "percentage": 9.4,
+        "applications": []
+      },
+      {
+        "client": "Ventas y Servicios",
+        "percentage": 0.4,
+        "applications": []
+      },
+      {
+        "client": "AVC",
+        "percentage": 1.7,
+        "applications": []
+      },
+      {
+        "client": "I+D",
+        "percentage": 5.9,
+        "applications": []
+      },
+      {
+        "client": "TLS",
+        "percentage": 5.9,
+        "applications": []
+      },
+      {
+        "client": "Ups",
+        "percentage": 2.9,
+        "applications": []
+      }
+    ]
+  },
+  {
+    "serviceName": "CUSTOMERS3",
+    "distribution": [
+      {
+        "client": "Crystal",
+        "percentage": 4.7,
+        "applications": []
+      },
+      {
+        "client": "Tuya",
+        "percentage": 15.4,
+        "applications": []
+      },
+      {
+        "client": "Davivienda",
+        "percentage": 0.9,
+        "applications": []
+      },
+      {
+        "client": "DaviBank",
+        "percentage": 0.4,
+        "applications": []
+      },
+      {
+        "client": "Banco de Bogotá",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Banco de Occidente",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Banco Av Villas",
+        "percentage": 0.9,
+        "applications": []
+      },
+      {
+        "client": "Banco Popular",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Porvenir",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Corficolombiana",
+        "percentage": 0.9,
+        "applications": []
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Fidubogotá",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Alpopular",
+        "percentage": 1.9,
+        "applications": []
+      },
+      {
+        "client": "Seguros Alfa",
+        "percentage": 3.8,
+        "applications": []
+      },
+      {
+        "client": "CEET",
+        "percentage": 3.8,
+        "applications": []
+      },
+      {
+        "client": "Ventas y Servicios",
+        "percentage": 0.9,
+        "applications": []
+      },
+      {
+        "client": "AVC",
+        "percentage": 1.3,
+        "applications": []
+      },
+      {
+        "client": "I+D",
+        "percentage": 7.5,
+        "applications": []
+      },
+      {
+        "client": "TLS",
+        "percentage": 3.8,
+        "applications": []
+      },
+      {
+        "client": "Ups",
+        "percentage": 0.9,
+        "applications": []
+      },
+      {
+        "client": "Banco del Austro",
+        "percentage": 22.6,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "BanaMex",
+        "percentage": 15.1,
+        "applications": []
+      }
+    ]
+  },
+  {
+    "serviceName": "Cognos-Database",
+    "distribution": [
+      {
+        "client": "Tuya",
+        "percentage": 4.54
+      },
+      {
+        "client": "Crystal",
+        "percentage": 4.54
+      },
+      {
+        "client": "Davivienda",
+        "percentage": 4.54
+      },
+      {
+        "client": "DaviBank",
+        "percentage": 4.54
+      },
+      {
+        "client": "Banco de Bogotá",
+        "percentage": 4.54
+      },
+      {
+        "client": "Banco de Occidente",
+        "percentage": 4.54
+      },
+      {
+        "client": "Banco Av Villas",
+        "percentage": 4.54
+      },
+      {
+        "client": "Banco Popular",
+        "percentage": 4.54
+      },
+      {
+        "client": "Porvenir",
+        "percentage": 4.54
+      },
+      {
+        "client": "Corficolombiana",
+        "percentage": 4.54
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 4.54
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 4.54
+      },
+      {
+        "client": "Fidubogotá",
+        "percentage": 4.54
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 4.54
+      },
+      {
+        "client": "Alpopular",
+        "percentage": 4.54
+      },
+      {
+        "client": "Seguros Alfa",
+        "percentage": 4.54
+      },
+      {
+        "client": "CEET",
+        "percentage": 4.54
+      },
+      {
+        "client": "Ventas y Servicios",
+        "percentage": 4.54
+      },
+      {
+        "client": "AVC",
+        "percentage": 4.54
+      },
+      {
+        "client": "TLS",
+        "percentage": 4.54
+      },
+      {
+        "client": "Ups",
+        "percentage": 4.54
+      },
+      {
+        "client": "MXSSA",
+        "percentage": 4.66
+      }
+    ]
+  },
+  {
+    "serviceName": "Db2-Gopass",
+    "distribution": [
+      {
+        "client": "Crystal",
+        "percentage": 100,
+        "applications": [
+          "GoPass"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "d3bg9hid0305ul9cg3og_kube-d3bg9hid0305ul9cg3og-ibmmaximo-ibmtlsm-0000014a",
+    "distribution": [
+      {
+        "client": "Crystal",
+        "percentage": 16.67,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "CEET",
+        "percentage": 16.67,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 16.67,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "Alpopular",
+        "percentage": 16.67,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 16.66,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 16.66,
+        "applications": [
+          "Maximo"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "d3bg9hid0305ul9cg3og_kube-d3bg9hid0305ul9cg3og-ibmmaximo-ibmtlsm-00000288",
+    "distribution": [
+      {
+        "client": "Crystal",
+        "percentage": 16.67,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "CEET",
+        "percentage": 16.67,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 16.67,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "Alpopular",
+        "percentage": 16.67,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 16.66,
+        "applications": [
+          "Maximo"
+        ]
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 16.66,
+        "applications": [
+          "Maximo"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "Internet Services-TSS",
+    "distribution": [
+      {
+        "client": "Tuya",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Crystal",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Davivienda",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "DaviBank",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Banco de Bogotá",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Banco de Occidente",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Banco Av Villas",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Banco Popular",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Porvenir",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Corficolombiana",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Fidubogotá",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Alpopular",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Seguros Alfa",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "CEET",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Ventas y Servicios",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "AVC",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "I+D",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "TLS",
+        "percentage": 4.49,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Ups",
+        "percentage": 4.61,
+        "applications": [
+          "Dominio IBM"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "DPG-ColTLSSupport-16",
+    "distribution": [
+      {
+        "client": "Tuya",
+        "percentage": 4.54
+      },
+      {
+        "client": "Crystal",
+        "percentage": 4.54
+      },
+      {
+        "client": "Davivienda",
+        "percentage": 4.54
+      },
+      {
+        "client": "DaviBank",
+        "percentage": 4.54
+      },
+      {
+        "client": "Banco de Bogotá",
+        "percentage": 4.54
+      },
+      {
+        "client": "Banco de Occidente",
+        "percentage": 4.54
+      },
+      {
+        "client": "Banco Av Villas",
+        "percentage": 4.54
+      },
+      {
+        "client": "Banco Popular",
+        "percentage": 4.54
+      },
+      {
+        "client": "Porvenir",
+        "percentage": 4.54
+      },
+      {
+        "client": "Corficolombiana",
+        "percentage": 4.54
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 4.54
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 4.54
+      },
+      {
+        "client": "Fidubogotá",
+        "percentage": 4.54
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 4.54
+      },
+      {
+        "client": "Alpopular",
+        "percentage": 4.54
+      },
+      {
+        "client": "Seguros Alfa",
+        "percentage": 4.54
+      },
+      {
+        "client": "CEET",
+        "percentage": 4.54
+      },
+      {
+        "client": "Ventas y Servicios",
+        "percentage": 4.54
+      },
+      {
+        "client": "AVC",
+        "percentage": 4.54
+      },
+      {
+        "client": "TLS",
+        "percentage": 4.54
+      },
+      {
+        "client": "Ups",
+        "percentage": 4.54
+      },
+      {
+        "client": "MXSSA",
+        "percentage": 4.66
+      }
+    ]
+  },
+  {
+    "serviceName": "Watson Discovery-2da Instancia",
+    "distribution": [
+      {
+        "client": "ADL",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Aportes en linea",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Crystal",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Davivienda",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Fidubogota",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "SaritaTuya",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "UPS",
+        "percentage": 6.67,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Ventas y servicios",
+        "percentage": 6.66,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Watshelp Banco Popular",
+        "percentage": 6.66,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Watshelp CEET",
+        "percentage": 6.66,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "watshelp-porvenir",
+        "percentage": 6.66,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "whatshelp-avc",
+        "percentage": 6.66,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "Watson Discovery-cv",
+    "distribution": [
+      {
+        "client": "Supportbot Bogota",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "supportbot-avc",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "supportbot-avVillas",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "supportbot-Porvenir",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-Alpopular",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-BancoAustro",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-BancoPopular",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-bcoOccidente",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-colpatria",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-Corficolombiana",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-crystal",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-eltiempo",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-optimize",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-proteccion",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-Protección llamada",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "wd-segurosalfa",
+        "percentage": 6.25,
+        "applications": [
+          "Knowledge Base",
+          "WatsHelp",
+          "SupportBot"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "tsscloudservices",
+    "distribution": [
+      {
+        "client": "Tuya",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Crystal",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Davivienda",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "DaviBank",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Banco de Bogotá",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Banco de Occidente",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Banco Av Villas",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Banco Popular",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Porvenir",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Corficolombiana",
+        "percentage": 4.55,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Fiduoccidente",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Fidubogotá",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Almaviva",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Alpopular",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Seguros Alfa",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "CEET",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Ventas y Servicios",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "AVC",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "I+D",
+        "percentage": 4.54,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "TLS",
+        "percentage": 4.49,
+        "applications": [
+          "Dominio IBM"
+        ]
+      },
+      {
+        "client": "Ups",
+        "percentage": 4.61,
+        "applications": [
+          "Dominio IBM"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "DPG-ColTLSSupport-10",
+    "distribution": [
+      {
+        "client": "MXSSA",
+        "percentage": 100,
+        "applications": [
+          "Data Report LA"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "WA-ColTSSSupport-01",
+    "distribution": [
+      {
+        "client": "Alpopular",
+        "percentage": 11.11,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "Banco del Austro",
+        "percentage": 11.11,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "Banco Popular",
+        "percentage": 11.11,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "Crystal",
+        "percentage": 11.11,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "El tiempo",
+        "percentage": 11.11,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "FIDUOCCIDENTE",
+        "percentage": 11.11,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "Fidupopular",
+        "percentage": 11.11,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "Seguros Alfa",
+        "percentage": 11.11,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+      {
+        "client": "Tuya",
+        "percentage": 11.12,
+        "applications": [
+          "WatsHelp"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "WA-ColTSSSupport-02",
+    "distribution": [
+      {
+        "client": "AVC",
+        "percentage": 20,
+        "applications": [
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Banco de Bogotá",
+        "percentage": 20,
+        "applications": [
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Banco Occidente",
+        "percentage": 20,
+        "applications": [
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Demo General",
+        "percentage": 20,
+        "applications": [
+          "WatsHelp",
+          "SupportBot"
+        ]
+      },
+      {
+        "client": "Fidubogotá",
+        "percentage": 20,
+        "applications": [
+          "WatsHelp",
+          "SupportBot"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "vpn-crystal",
+    "distribution": [
+      {
+        "client": "Crystal",
+        "percentage": 100,
+        "applications": [
+          "WatsHelp",
+          "Maximo",
+          "GoPass"
+        ]
+      }
+    ]
+  },
+  {
+    "serviceName": "watsonx Assistant-04",
+    "distribution": [
+      {
+        "client": "Porvenir",
+        "percentage": 50,
+        "applications": [
+          "WatsHelp"
+        ]
+      },
+       {
+        "client": "Seguros Alfa",
+        "percentage": 50,
+        "applications": [
+          "WatsHelp"
+        ]
+      }
+    ]
+  }
+]
