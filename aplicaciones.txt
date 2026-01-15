@@ -24,6 +24,3 @@ Dominio IBM
 Almacenamiento
 BackUp
 Red
-
-
-
